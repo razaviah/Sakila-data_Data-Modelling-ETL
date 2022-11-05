@@ -36,17 +36,17 @@ Our target is to create a data model make end user can easily query simply with 
 
 ## 4. Project Steps
 
-1. Load original data: You will use this script to load the dataset into snowflake data warehouse.(it is better to use DBeaver to load data than putting the script into Snowflake console).
+1. **Load original data:** You will use this script to load the dataset into snowflake data warehouse.(it is better to use DBeaver to load data than putting the script into Snowflake console).
 
-2. Analyze the Business Requirements and translate the requirements into the technical requirements (rough formulas).
+2. **Analyze the Business Requirements and translate the requirements into the technical requirements (rough formulas).**
 
-3. Consider the Grain of the data model based on your analyzation of the above Requirements. Consider the atomic row of a fact table.
+3. **Consider the Grain of the data model based on your analyzation of the above Requirements.** Consider the atomic row of a fact table.
 
-4. Decide what dimension tables you will use in the data model. Also consider what columns you will include into the dimensions where are these columns original from (which original tables).
+4. **Decide what dimension tables you will use in the data model.** Also consider what columns you will include into the dimensions where are these columns original from (which original tables).
 
-5. Define your fact table. Consider what columns will be included in your fact table and how to get them.
+5. **Define your fact table.** Consider what columns will be included in your fact table and how to get them.
 
-6. Create the dimension and fact tables in the Snowflake data warehouse. Make sure your data model is in a different schema.
+6. **Create the dimension and fact tables in the Snowflake data warehouse.** Make sure your data model is in a different schema.
 
-7. Write ETL script to transform data from the original tables to the target tables in the data model. If you have problem in this step, please finish it after the Lecture -- ETL.
+7. **Write ETL script to transform data from the original tables to the target tables in the data model.**
 
