@@ -17,3 +17,18 @@ The dataset is the Sakila database about online DVD store. The database relation
 
 
 This is a typical OLTP dataset for operational system. The dataset contains several tables, you first need to tell which tables can be used for dimension tables and which tables can be used for fact table.
+
+
+## 3. Business Requirements
+
+In this project, you need to make a data model to meet the following requirements from the managemental team:
+
+    List the total revenue of each store everyday.
+    List the total revenue of totally everyday.
+    List the top store according to their weekly revenue every week.
+    List top sales clerk who have the most sales each day/week/month.
+    Which film is the top film each week/month in each store/totally?
+    Who are our top 10 customers each month/year?
+    Is there any store the sales is in a decline trend (within the recent 4 weeks the avg sales of each week is declining) 
+
+Our target is to create a data model make end user can easily query simply with SELECT, GROUP BY, JOIN
