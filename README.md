@@ -1,6 +1,6 @@
 # Sakila-data_Data-Modelling-and-ETL
 
-Lambda Cloud Project, Data Engineering Diploma Program, WeCloudData
+Sakila data_Data Modelling and ETL, Data Engineering Diploma Program, WeCloudData
 
 Content developed by: WeCloudData Academy
 
