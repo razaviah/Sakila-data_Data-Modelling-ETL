@@ -1,6 +1,6 @@
-# Sakila data_Data Modelling and ETL -- Mini Project
+# Data Modelling and ETL (Sakila data) -- Mini Project
 
-Sakila data_Data Modelling and ETL, Data Engineering Diploma Program, WeCloudData
+Data Modelling and ETL (Sakila data), Data Engineering Diploma Program, WeCloudData
 
 Content developed by: WeCloudData Academy
 
