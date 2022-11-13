@@ -7,6 +7,7 @@ Content developed by: WeCloudData Academy
 ## 1. Project Description
 
 In the project, you are going:
+
 Step 1: create a data model for a data warehouse.
 Step 2: write the ETL script to transform the data from the original tables to the data model you create.
 
