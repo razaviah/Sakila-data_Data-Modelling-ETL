@@ -56,3 +56,6 @@ Our target is to create a data model make end user can easily query simply with 
 
 7. **Write ETL script to transform data from the original tables to the target tables in the data model.**
 
+## 5. Project Notes
+
+* In the data_creation folder, you will find the necessary script to create the original dataset for the project. You can also find the script to create calendar tables.
