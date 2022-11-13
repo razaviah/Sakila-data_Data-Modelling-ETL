@@ -60,4 +60,4 @@ Our target is to create a data model make end user can easily query simply with 
 
 * In the data_creation folder, you will find the necessary script to create the original dataset for the project. You can also find the script to create calendar tables.
 * In the scripts folder, you will find the ETL ddl and dml script.
-* 
+* In the data model folder, you will find the data model and Requirements translate process.
